@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+/*..............................................................................................*/
+
+divider {
+    height: 3px;
+    width: 50px;
+    background-color: #bb1600;
+    margin: auto;
+}
+
+hr {
+    height: 3px;
+    width: 40px;
+    background-color: #bb1600;
+    margin-left: 1rem;
+}
+
+
+/*.......................................................................................*/
+
+
+.wrapper-div{
+	border: 2px solid black;
+	padding: 1rem;
+	letter-spacing: 5px;
+}
+.noma-div{
+	border-right: 2px solid black;
+	margin:  0 1rem;
+	padding-right: 1rem;
+	
+}
+.authentic-div{
+	padding-right: 16px;
+	
+
+}
+	
